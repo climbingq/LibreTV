@@ -12,7 +12,7 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: '倩倩专供',
     url: 'https://libretv.is-an.org',
     description: '倩倩专供',
     logo: './image/retrotv_5520.png',
