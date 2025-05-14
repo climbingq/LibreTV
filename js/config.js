@@ -15,7 +15,7 @@ const SITE_CONFIG = {
     name: '倩倩专供',
     url: 'https://libretv.is-an.org',
     description: '倩倩专供',
-    logo: './image/retrotv_5520.png',
+    logo: 'http://svzhvagry.hn-bkt.clouddn.com/alist%E5%80%A9%E5%80%A9%E4%B8%93%E4%BE%9B.png',
     version: '1.0.3'
 };
 
