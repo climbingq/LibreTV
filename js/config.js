@@ -12,9 +12,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: '倩倩专供',
+    name: '网站名称',
     url: 'https://libretv.is-an.org',
-    description: '倩倩专供',
+    description: '网站名称',
     logo: 'http://svzhvagry.hn-bkt.clouddn.com/alist%E5%80%A9%E5%80%A9%E4%B8%93%E4%BE%9B.png',
     version: '1.0.3'
 };
